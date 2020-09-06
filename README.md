@@ -6,4 +6,4 @@ Actualmente estudio la carrera de Licenciatura en Informática en la UTEC me con
 * **[Facebook](https://www.facebook.com/mmedinasv)**
 * **[Instagram](https://www.instagram.com/mmedinasv__/)**
 * **[Twitter](https://twitter.com/mmedinasv)**
-* **[Portafolio](http://manuelchavez.eshost.com.ar/)**
+* **[Portafolio](http://portafolio-manuelchavez.ga/)**
