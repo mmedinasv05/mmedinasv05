@@ -1,9 +1,9 @@
 ## Hola, soy Manuel Chávez 👋
 
-Actualmente estudio la carrera de Licenciatura en Informática en la UTEC me considero una persona apasionada ❤️ por el desarrollo web del lado del Frontend, en el 2017 tuve mi primera oportunidad de poder crear 👨‍💻 mi primera página web y desde ese momento disfruto llevar a cabo la maquetación de sitios web y hasta el día de ahora sigo sintiendo la misma emoción y pasión al crear un sitio web, también me considero autodidacta 🖥📘 ya que me gusta aprender nuevas cosas y gracias a ese aprendizaje e podido ir conociendo un poco sobre las tecnologías del desarrollo web del lado del Frontend.
+Hola soy Manuel Chavez y puedes llamarme Manu, soy estudiante de la carrera de Licenciatura en Informática en la Universidad Tecnológica de El Salvador, me considero una persona apasionada ❤️ por el desarrollo web del lado del Frontend ya que en el 2018 tuve mi primera oportunidad de poder maquetar mi primera página web utilizando HTML y CSS y desde ese momento senti pasión por el desarrollo web ya que se pueden realizar cosas impresionantes utilizando HTML, CSS y Javascript y hasta el día de ahora sigo sintiendo la misma pasión cuando creo un sitio web. En mis tiempos libres me gusta estar maquetando sitios web y estar aprendiendo cosas nuevas para poder ponerlas en práctica, por el momento no he tenido experiencia a nivel profesional en el desarrollo web solo a nivel académico llevando a cabo la elaboración de algunos sitios también he tenido la oportunidad de ser parte de algunos cursos en línea y presencales para poder ir conociendo un poco mas sobre este hermoso mundo de la tecnología web.
 
 #### Mis redes sociales
 * **[Facebook](https://www.facebook.com/mmedinasv)**
 * **[Instagram](https://www.instagram.com/mmedinasv__/)**
 * **[Twitter](https://twitter.com/mmedinasv)**
-* **[Portafolio](http://portafolio-manuelchavez.ga/)**
+* **[Portafolio](http://manuelchavez.ga/)**
