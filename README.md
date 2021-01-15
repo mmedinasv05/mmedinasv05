@@ -6,4 +6,3 @@ Hola soy Manuel Chavez y puedes llamarme Manu, soy estudiante de la carrera de L
 * **[Facebook](https://www.facebook.com/mmedinasv)**
 * **[Instagram](https://www.instagram.com/mmedinasv__/)**
 * **[Twitter](https://twitter.com/mmedinasv)**
-* **[Portafolio](http://manuelchavez.ga/)**
