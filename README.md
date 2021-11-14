@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="mailto:veronica.moreno.wrok@gmail.com">
-    <img src="https://img.shields.io/badge/Facebook-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Facebook-D14836?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
 </p>
 
