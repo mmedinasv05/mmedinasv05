@@ -20,11 +20,11 @@
   <a href="https://www.instagram.com/__manuelchavez/">
     <img src="https://img.shields.io/badge/Instagram-F71E9E?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/manuel-chavez-ab0b711ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
   <a href="https://twitter.com/___manuelchavez">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/manuel-chavez-ab0b711ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:chavezofficial2015@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
