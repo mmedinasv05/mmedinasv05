@@ -1,9 +1,9 @@
-# 👋Hi Developers
+# 👋Hola Desarrolladores!!
 ![I love code](https://media-exp1.licdn.com/dms/image/C4D16AQH8BuipNeKkSw/profile-displaybackgroundimage-shrink_350_1400/0/1629693060090?e=1665619200&v=beta&t=IB9FBc3fy5CnIHi_xNbYfrz3_xaDzl6rU6P2WXBaDo0)
 
-## About:
+## Sobre mí:
 
-## Skills
+## Habilidades:
 ![HTML5](https://img.shields.io/badge/HTML5-DD4B25?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-254CDD?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-EFD81D?style=for-the-badge&logo=javascript&logoColor=black)
@@ -11,7 +11,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
-## Socials
+## Redes Sociales:
 <p>
   <a href="https://www.instagram.com/__manuelchavez/">
     <img src="https://img.shields.io/badge/Instagram-5D4EC4?style=for-the-badge&logo=instagram&logoColor=white">
