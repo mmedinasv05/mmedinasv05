@@ -1,5 +1,5 @@
 # 👋Hola Desarrolladores!!
-![I love code](https://media-exp1.licdn.com/dms/image/C4D16AQH8BuipNeKkSw/profile-displaybackgroundimage-shrink_350_1400/0/1629693060090?e=1665619200&v=beta&t=IB9FBc3fy5CnIHi_xNbYfrz3_xaDzl6rU6P2WXBaDo0)
+![I love code](https://media-exp1.licdn.com/dms/image/C4D16AQH8BuipNeKkSw/profile-displaybackgroundimage-shrink_350_1400/0/1629693060090?e=1672876800&v=beta&t=K-SDx1s1L4EPep1xfqYeaqlPI1meohpCtraygBW4BwY)
 
 ## Sobre mí:
 
