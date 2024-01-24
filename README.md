@@ -1,10 +1,7 @@
 # 👋Hola Desarrolladores!!
-![I love code](https://media-exp1.licdn.com/dms/image/C4D16AQH8BuipNeKkSw/profile-displaybackgroundimage-shrink_350_1400/0/1629693060090?e=1672876800&v=beta&t=K-SDx1s1L4EPep1xfqYeaqlPI1meohpCtraygBW4BwY)
 
 ## Sobre mí:
-¡Hola! Soy un estudiante de Licenciatura en Informática con un gran interés en convertirme en un Frontend Developer y estoy en busca de una oportunidad para desarrollar mi carrera profesional en esta área. Aunque aún no he tenido experiencia laboral he adquirido algunos conocimientos en tecnologías clave del frontend como HTML, CSS, Javascript, React y Git a travez de retos personales.
-
-¡Espero con ansias  la oportunidad de formar parte de un equipo talentoso!
+Soy una apasionada por el desarrollo web del lado del Frontend y siempre trato de aprender cosas nuevas y ponerlas en práctica. Mi pasión inicio en el 2019 cuando tuve la oportunidad de crear mi primera página web, aunque carezco de experiencia a nivel profesional he ido adquiriendo algunas hábilidades a travez de retos y proyectos personales en los cuales he trabajado con algunas tecnologías del lado del Frontend y actualmente busco una oportunidad que me permita crecer y desarrollarme profesionalmente.
 
 ## Habilidades:
 ![HTML5](https://img.shields.io/badge/HTML5-DD4B25?style=for-the-badge&logo=html5&logoColor=white)
